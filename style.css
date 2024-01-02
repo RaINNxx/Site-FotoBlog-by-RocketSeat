@@ -13,9 +13,8 @@
     background-color: white;
  }
 
- #app > * {
-    border: 1px solid red;
- }
+ 
+ 
 
  #app { /* Adicionando um header um main e um footer divididos por grid */
     display: grid;
@@ -31,4 +30,5 @@
 
  main {
     background-color: azure;
+    overflow-y: scroll ;
  }
