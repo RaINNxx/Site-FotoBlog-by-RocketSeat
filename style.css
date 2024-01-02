@@ -12,8 +12,18 @@
     font-size: 1.6rem;
  }
 
+ #app > * {
+    border: 1px solid red;
+ }
+
  #app { /* Adicionando um header um main e um footer divididos por grid */
     display: grid;
     grid-template-rows: max-content 1fr max-content;
     height: 100vh;
+ }
+
+ .container {
+    padding:  1.6rem 3.2rem;
+    width: min(112rem, 100%);
+    margin: 0 auto; /* criou os espaçamentos nas laterais levando ao centro */
  }
