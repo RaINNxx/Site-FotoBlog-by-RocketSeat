@@ -10,6 +10,7 @@
 
  body {
     font-size: 1.6rem;
+    background-color: white;
  }
 
  #app > * {
@@ -26,4 +27,8 @@
     padding:  1.6rem 3.2rem;
     width: min(112rem, 100%);
     margin: 0 auto; /* criou os espaçamentos nas laterais levando ao centro */
+ }
+
+ main {
+    background-color: azure;
  }
