@@ -11,3 +11,9 @@
  body {
     font-size: 1.6rem;
  }
+
+ #app { /* Adicionando um header um main e um footer divididos por grid */
+    display: grid;
+    grid-template-rows: max-content 1fr max-content;
+    height: 100vh;
+ }
