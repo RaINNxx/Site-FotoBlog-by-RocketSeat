@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido durante as aulas do Stage 03 no Explorer.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
-- CSS
+- CSS ANIMATION , CSS TRANSFORM cores hsl, keyframes
 
 ---
 
