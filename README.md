@@ -10,7 +10,7 @@
 
 ## 💻 Projeto
 Esse projeto foi desenvolvido durante as aulas do Stage 03 no Explorer.
-[LinkSite](fotoblogbyrockeyseat.netlify.app)
+[LinkSite](https://fotoblogbyrockeyseat.netlify.app/)
 
 
 
